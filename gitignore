@@ -1,4 +1,4 @@
-submission/
+submission/*
 *.gif
 *.tiff
 *.avi
@@ -10,3 +10,4 @@ submission/
 *.ppt
 *.pptx
 *.png
+*.pyc
