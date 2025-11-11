@@ -9,3 +9,14 @@ David E. J. van Wijk, Ersin Das, Anil Alan, Samuel Coogan, Tamas G. Molnar, Joel
 The objective is to prevent the quadrotor from crashing below the minimum altitude in the presence of unknown disturbances. Our approach obeys the altitude constraint by calculating the backup flow under a reconstruction of the disturbance. Further, since the backup controller is designed to satisfy input bounds, the safe controller is guaranteed to respect these bounds as well. Click the thumbnail below to watch!
 
 [![Quadrotor Supplemental Video](https://github.com/davidvwijk/UE-bCBF/blob/main/thumbnail.png)](https://www.youtube.com/watch?v=btNq8rAtAkM&feature=youtu.be)
+
+## BibTeX Citation
+
+```
+@article{vanwijk2025uncertaintyestimatorsrobustbackup,
+    title={Uncertainty Estimators for Robust Backup Control Barrier Functions}, 
+    author={David E. J. van Wijk and Ersin Da{\c{s}} and Anil Alan and Samuel Coogan and Tamas G. Molnar and Joel W. Burdick and Manoranjan Majji and Kerianne L. Hobbs},
+    journal={arXiv preprint arXiv:2503.15734},
+    year={2025},
+}
+```
